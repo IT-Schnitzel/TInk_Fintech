@@ -17,7 +17,7 @@ public class Main {
         logger.info("Adding");
         printList(linkedList);
         System.out.println("Get 0: " + linkedList.get(0));
-        logger.info("Gettnig");
+        logger.info("Gettnig 0");
         linkedList.remove(0);
         logger.info("Removing");
         System.out.println("Contains 1: " + linkedList.contains(1));
