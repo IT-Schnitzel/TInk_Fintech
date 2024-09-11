@@ -1,5 +1,4 @@
 package org.example;
-
 public class ListPrint {
     public static void printList(CustomLinkedList list) {
         Node current = list.head;

@@ -26,5 +26,6 @@ public class Main {
         logger.info("Adding list");
         printList(linkedList);
         logger.info("END");
+
     }
 }
