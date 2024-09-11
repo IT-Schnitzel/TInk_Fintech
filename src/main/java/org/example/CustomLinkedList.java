@@ -1,7 +1,5 @@
 package org.example;
-
 import java.util.List;
-
 class CustomLinkedList {
     public Node head;
 
